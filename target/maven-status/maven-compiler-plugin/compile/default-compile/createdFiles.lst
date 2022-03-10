@@ -1,0 +1,5 @@
+org/neointegrations/jms/JMSUtil.class
+org/neointegrations/jms/JMSProducer.class
+org/neointegrations/jms/JMSConsumer.class
+org/neointegrations/jms/JMSListener$1.class
+org/neointegrations/jms/JMSListener.class
